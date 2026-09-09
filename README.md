@@ -59,7 +59,7 @@ An AI-powered application designed to solve real-world problems using modern AI 
 
 **Tech:** TypeScript • Node.js • AI • REST API
 
-🔗 [View Project](https://github.com/Kunalgx/CinoVo-project)
+🔗 [View Project](https://github.com/Kunalgx/Perplexity)
 
 ---
 
