@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kunal Kumar
-![Profile Views](https://komarev.com/ghpvc/?username=Kunalgx&label=Profile%20Views&color=0e75b6&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kunalgx&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Building Real-World Applications
 
